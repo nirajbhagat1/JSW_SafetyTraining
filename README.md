@@ -22,7 +22,7 @@ The Safety Training Web Application is a dynamic platform developed for JSW Stee
 - **Database**: MySQL![image](https://github.com/user-attachments/assets/d294758f-2912-4bf7-80dd-61d172d50d80)
 ![image](https://github.com/user-attachments/assets/bbb45122-19a5-415d-ad38-75153c393b82)
 ![image](https://github.com/user-attachments/assets/f78399d5-4209-46ff-bd20-d558a8b85d04)
-![image](https://github.com/user-attachments/assets/0cf81d0b-2426-48a8-ab36-e8a4ca9c9229)
+
 ![image](https://github.com/user-attachments/assets/3a95df23-ed85-42ef-a143-cb40f557e95c)
 ![image](https://github.com/user-attachments/assets/bac14f18-37c3-4cab-b331-a981222fd259)
 ![image](https://github.com/user-attachments/assets/e5469646-2747-47c8-a8aa-9087c87bfa91)
